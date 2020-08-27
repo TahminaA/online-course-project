@@ -1,0 +1,10 @@
+.main-container{
+    display: flex;
+
+}
+.course-container{
+    width: 60%;
+    margin-left: 120px;
+    margin-right: 50px;
+    border-right:1px solid lightgray;
+}
